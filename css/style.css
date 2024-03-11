@@ -1,0 +1,103 @@
+.fond1 {
+    background-image:url(../image/imagen5.jpg) no-repeat fixed;
+    background-size: cover;
+    height: 733px;
+    position: relative;
+}
+.barra {
+    padding-top: 600px;
+}
+
+.emenu {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+
+}
+
+.texto {
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+.amarillo {
+    background-color: rgb(250, 213, 6);
+    cursor: pointer;
+}
+
+.celeste {
+    background-color: rgb(33, 183, 243);
+    cursor: pointer;
+}
+
+.azul {
+    background-color: blue;
+    cursor: pointer;
+}
+
+.tam {
+    position: relative;
+    background-size: cover;
+    width: 600px;
+    padding-right: 1px;
+    padding-bottom: 2%;
+}
+
+.tam2 {
+    position: relative;
+    background-size: cover;
+    width: 300px;
+  
+}
+
+.sep {
+    padding-bottom: 20px;
+}
+
+.trio img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.trio:nth-child(1) {
+    grid-column-start: span 2;
+}
+
+.imgtam {
+    width: 400px;
+    padding-bottom: 5%;
+}
+
+.azul2 {
+    background-color: blue;
+}
+
+.linespacio {
+    padding-right: 30%;
+}
+
+.imgtam2 {
+    width: 200px;
+    padding-bottom: 5%;
+}
+
+.cuadrado {
+    border: 2px solid #656565;
+    padding: 1%;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.boton {
+    background-color: #dfe986;
+    width: 130px;
+    padding: 1%;
+    text-align: center;
+    box-shadow: 2px 2px 2px #0c0b0b;
+    cursor: pointer;
+    
+}
